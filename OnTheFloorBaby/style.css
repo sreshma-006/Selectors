@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i0.wp.com/static.pexels.com/photos/2143/lights-party-dancing-music-medium.jpg?ssl=1');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+#color-overlay{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+}
+#text-bg{
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+    font-family: Verdana;
+}
